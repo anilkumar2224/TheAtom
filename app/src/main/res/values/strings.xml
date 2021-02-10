@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheAtom</string>
+    <string name="google_sign_up">Continue with Google</string>
+    <string name="tc">By creating an account you agree to our <a href="https://www.theatom.app/terms-of-service">Terms of Service &amp; privacy Policy</a></string>
+</resources>
